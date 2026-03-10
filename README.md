@@ -18,7 +18,7 @@ conda env create -f environment.yml
 ## Reproduce the results
 
 
-**File preparation**Firstly, please download the necessary datasets and checkpoints files from the link (https://huggingface.co/kk77hh/MolSPC/tree/main).
+**File preparation.** Firstly, please download the necessary datasets and checkpoints files from the link (https://huggingface.co/kk77hh/MolSPC/tree/main).
 
 
 **Pretraining stage1 and stage2.** We achieved chemical self-awareness pretraining and cross-modal semantic grounding through the first two stages of pretraining, with the implementation approach referenced from the [molca](https://github.com/acharkq/MolCA) article. 
