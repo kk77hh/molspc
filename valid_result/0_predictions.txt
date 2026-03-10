@@ -1,0 +1,1 @@
+{"prediction": "O=C(NC1CCCN(Cc2ccc(Cl)cc2)C1)c1n[nH]c(-c2ccc(F)cc2)c1Br", "target": "[START_I_SMILES]O=C(NC1CCCN(Cc2ccc(Cl)cc2)C1)c1ccncc1[END_I_SMILES]."}
